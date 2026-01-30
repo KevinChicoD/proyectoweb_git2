@@ -8,3 +8,15 @@ li{
     background-color: aliceblue;
     border-radius: 5px;
 }
+
+table{
+    border: 2px double black;
+}
+
+th{
+    font-size: 15px;
+}
+
+td{
+    background-color: chocolate;
+}
